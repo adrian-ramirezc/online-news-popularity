@@ -4,7 +4,6 @@ Dataset: httpshttps://archive-beta.ics.uci.edu/ml/datasets/online+news+popularit
 
 # Exploratory Data Analysis in a Regression Problem
 
-
 Number of Attributes: 61 (58 predictive attributes, 2 non-predictive, 1 goal field) 
 
 - Attribute Information: 
@@ -71,4 +70,4 @@ Number of Attributes: 61 (58 predictive attributes, 2 non-predictive, 1 goal fie
 58. abs_title_subjectivity: Absolute subjectivity level 
 59. abs_title_sentiment_polarity: Absolute polarity level 
 
-60. shares: Number of shares (target)
+60. shares: Number of shares (**target**)
